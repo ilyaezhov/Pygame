@@ -11,7 +11,7 @@ pygame.display.set_caption('Change color!')
 
 window = pygame.display.set_mode((500, 500))
 
-background = pygame.Surface((300, 300))
+background = pygame.Surface((500, 500))
 background.fill(pygame.Color('#000000'))
 
 colors = [
